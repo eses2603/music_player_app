@@ -1,14 +1,25 @@
+# Music Player
 
-<h1> Music_Player</h1>
+A web-based music player that allows users to play and control audio tracks.
 
-I've independently designed and coded a responsive Music_Player on website, and it's ready to explore!
+## 🚀 Tech Stack
+- HTML
+- CSS
+- JavaScript
 
-🔸 Project Name: Music Player
+## 🔐 Features
+- Play and pause music
+- Track switching
+- Responsive player interface
+- Playlist system
+- Progress bar
+- Volume control
 
-🔸 Technologies Used: HTML, CSS, JavaScript
+## 🧠 Architecture & Focus
+- Audio API usage
+- Interactive UI controls
+- Clean music player layout
 
-🔸 Project Description: This Music_Player, which I designed and coded from scratch, works flawlessly on various devices, from mobile phones to desktop computers...
-
-<h2>Screen_Shoot</h2>
-
+## 📷 Demo
 ![](screen_MusicPlayer.gif)
+
