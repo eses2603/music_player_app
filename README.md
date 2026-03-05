@@ -12,8 +12,6 @@ A web-based music player that allows users to play and control audio tracks.
 - Track switching
 - Responsive player interface
 - Playlist system
-- Progress bar
-- Volume control
 
 ## 🧠 Architecture & Focus
 - Audio API usage
